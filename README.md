@@ -2,6 +2,8 @@
 
 Mathematica script to fit solar spectra using a black-body spectrum taking into account molecular absorption of the Earth’s atmosphere.
 
+When citing this work, please refere to: M. H. Futscher, B. Ehrler, Efficiency Limit of Perovskite/Si Tandem Solar Cells. ACS Energy Lett. 2016, 1, 863-868 
+
 ##Requirements
 
 [Wolfram Mathematica] (https://www.wolfram.com/mathematica/) 
